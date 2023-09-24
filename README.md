@@ -1,8 +1,8 @@
-# TMDb Movies Dataset Analysis
+# IMDb Movies Dataset Analysis
 
 ## Introduction
 
-This project involves the analysis of the TMDb (The Movie Database) Movies Dataset. This dataset contains information about thousands of movies released since 1960. The primary objective of this analysis is to explore and gain insights into various aspects of the movie industry, such as revenue trends over the years and the actors who have played the most lead roles.
+This project involves the analysis of the IMDb (The Movie Database) Movies Dataset. This dataset contains information about thousands of movies released since 1960. The primary objective of this analysis is to explore and gain insights into various aspects of the movie industry, such as revenue trends over the years and the actors who have played the most lead roles.
 
 ## Project Structure
 
@@ -42,6 +42,6 @@ To identify the actors with the most lead roles, I parsed the "cast" column and 
 
 ## Conclusion
 
-This data analysis project provided insights into the TMDb Movies Dataset, focusing on revenue trends and prominent lead actors. While the findings are informative, it's essential to remember that further research and analysis are required to draw more definitive conclusions.
+This data analysis project provided insights into the IMDb Movies Dataset, focusing on revenue trends and prominent lead actors. While the findings are informative, it's essential to remember that further research and analysis are required to draw more definitive conclusions.
 
 Feel free to explore the code and analysis notebooks for more details on the methodology and specific findings.
